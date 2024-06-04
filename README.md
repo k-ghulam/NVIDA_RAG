@@ -11,7 +11,7 @@ OpenAI: API integration for leveraging AI capabilities, particularly for questio
 LangChain: AI-powered document processing and retrieval library, incorporating Nvidia NIM and other advanced techniques.
 FAISS: Efficient similarity search library for handling high-dimensional vectors.
 Setup:
-Clone the repository: git clone https://github.com/your-username/nvidia-nim-demo.git
+Clone the repository: git clone https://datakooshktech.com
 Install dependencies: pip install -r requirements.txt
 Set environment variables for API keys:
 NVIDIA_API_KEY: Your Nvidia API key for accessing Nvidia NIM.
@@ -27,5 +27,5 @@ Contributions:
 Contributions are welcome! Feel free to open issues for bug reports or feature requests. Pull requests are encouraged for enhancements or fixes.
 
 Credits:
-Developed by [Your Name]
+Developed by  Ghulam Kooshki
 Powered by Nvidia NIM, OpenAI, LangChain, and Streamlit.
